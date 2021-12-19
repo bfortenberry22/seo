@@ -12,7 +12,7 @@ Concise descriptive title,
 
 Completed:
 Title was changed to the name of the company,
-Header was linked to inex.html,
+Header was linked to index.html,
 Alt attributes were added to images,
 One <div> was changed to <aside> in HTML code,
 CSS code was consolidated,
